@@ -1,0 +1,43 @@
+package variaveis;
+
+ //classe publica
+	
+	/*
+	 *  Tipos de Dados
+	 *  Alfanuméricos: é o dado que NÃO será utilizado em calculo matematico
+	 *  (Contexto DP do Itau)CEP => 00010-009 => 00010-009
+	 *  String (Javanês)
+	 *  
+	 *  
+	 *  Números: é um dado que PODE ser utilizado em cálculo matemático e/ou considerado um dado critico para o sistema
+	 *  (Contexto site dos Correios)CEP => 00010-009 => 1
+	 *  - com casas decimais: double
+	 *  - sem casas decimais: int
+	 *  
+	 *  Sintaxe:
+	 *  <tipo do dado> <nome da variavel> = <valor/dado>
+	 */
+
+	public class TiposDados {
+	public class void main (String args[]) {
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

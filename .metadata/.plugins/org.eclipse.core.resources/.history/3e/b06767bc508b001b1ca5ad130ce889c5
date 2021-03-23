@@ -1,0 +1,10 @@
+package bankofoz;
+
+public class Conta {
+
+	private short numero;
+	private byte digito;
+	
+	
+	public static void main (String[]args) {
+}

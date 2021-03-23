@@ -1,0 +1,13 @@
+package variaveis;
+
+public class TipoString {
+
+	public static void main (String[]args) {
+		
+		String email = "rafAel@GMAil.cOm";
+		System.out.println("Original: " + email);
+		
+	}
+	
+	
+}

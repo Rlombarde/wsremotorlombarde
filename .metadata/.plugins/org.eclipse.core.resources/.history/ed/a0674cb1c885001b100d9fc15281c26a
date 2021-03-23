@@ -1,0 +1,24 @@
+package variaveis;
+
+import javax.swing.JOptionPane;
+
+public class TesteTipos {
+	
+	public static void main(String[] args)
+	
+		String Produto = JOptionPane.showInputDialog("Digite o nome do produto");
+		int quantidade = Integer.parseInt
+				(JOptionPane.showInputDialog("Digite a quantidade"));
+		float imposto = Float.parseFloat
+				(JOptionPane.showInputDialog("Digite a % de imposto"));
+		
+		float valor = Float.parseFloat
+				(JOptionPane.showInputDialog("Digite o Valor unitário"));
+		double total = entrada * publico;
+		
+		System.out.printf("No jogo entre %s x %s a arrecadação foi de: R$ %.2f", time1, time2, total);
+		}
+	}
+
+
+}

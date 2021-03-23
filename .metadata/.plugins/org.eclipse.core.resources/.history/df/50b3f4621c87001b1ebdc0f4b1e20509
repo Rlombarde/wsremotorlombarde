@@ -1,0 +1,23 @@
+package repeticao;
+
+import javax.swing.JOptionPane;
+
+public class ExercicioRepeticao {
+	
+	
+	public static void main (String[]args) {
+		
+		int numero2 = 0;
+		
+		int numero1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o número base")); 
+		
+			while(numero2!=numero) {
+			numero2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o chute"));
+		}
+			System.out.println("Parabéns, você acertou");
+				
+				
+		
+	}
+
+}

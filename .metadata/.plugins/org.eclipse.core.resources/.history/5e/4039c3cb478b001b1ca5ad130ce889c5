@@ -1,0 +1,11 @@
+package br.com.lojaxpto.modelo;
+
+public class Produto {
+
+	private int id;
+	
+	
+	
+	
+	
+}

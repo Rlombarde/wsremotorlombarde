@@ -1,0 +1,16 @@
+package bankofoz;
+
+public class Cliente {
+	
+	private int id;
+	private String nome;
+	private String cpf;
+	private String fones;
+	
+	public static void main (String[]args) {
+		
+		
+	
+	}
+	
+}

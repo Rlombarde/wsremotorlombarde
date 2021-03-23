@@ -1,0 +1,33 @@
+package variaveis;
+
+public class TiposDados { //classe publica
+	
+	/*
+	 *  Tipos de Dados
+	 *  Alfanuméricos: é o dado que NÃO será utilizado em calculo matematico
+	 *  CEP => 00010-009 => 00010-009
+	 *  
+	 *  Números: é um dado que PODE ser utilizado em cálculo matemático e/ou considerado um dado critico para o sistema
+	 *  CEP => 00010-009 => 1
+	 */
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
